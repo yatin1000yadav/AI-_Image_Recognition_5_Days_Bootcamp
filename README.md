@@ -1,2 +1,2 @@
-# AI-_Image_Recognition_5_Days_Bootcamp
+# AI_Image_Recognition_5_Days_Bootcamp
 Projects, PPT and all the stuff related to the projects along with 5 Days Code and much more...
